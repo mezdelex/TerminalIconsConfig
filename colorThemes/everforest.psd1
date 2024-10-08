@@ -1,0 +1,79 @@
+@{
+    Name  = 'everforest'
+    Types = @{
+        Directories = @{
+            junction = 'E67E80' # Soft Red
+            symlink  = '83C092' # Soft Cyan
+            WellKnown = @{
+                '.aws'                  = 'D699B6' # Soft Purple
+                '.azure'                = 'D3C6AA' # Tan
+                '.cache'                = 'A7C080' # Soft Green
+                '.config'               = '7A8478' # Darker Forest
+                '.docker'               = '83C092' # Soft Cyan
+                '.git'                  = 'D9BB80' # Soft Yellow
+                '.github'               = 'D699B6' # Soft Purple
+                '.kube'                 = '7FBBB3' # Soft Blue
+                '.terraform'            = '7A8478' # Darker Forest
+                '.vscode'               = 'D3C6AA' # Tan
+                '.vscode-insiders'      = 'E39B7B' # Soft Orange
+                'github'                = 'D699B6' # Soft Purple
+                'node_modules'          = 'E67E80' # Soft Red
+                applications            = '83C092' # Soft Cyan
+                apps                    = '7FBBB3' # Soft Blue
+                artifacts               = 'A7C080' # Soft Green
+                benchmark               = 'D3C6AA' # Tan
+                bin                     = 'E39B7B' # Soft Orange
+                contacts                = '7A8478' # Darker Forest
+                demo                    = 'DBBC7F' # Light Brown
+                desktop                 = 'D9BB80' # Soft Yellow
+                development             = '83C092' # Soft Cyan
+                docs                    = 'A7C080' # Soft Green
+                documents               = '7FBBB3' # Soft Blue
+                downloads               = 'E67E80' # Soft Red
+                favorites               = 'DBBC7F' # Light Brown
+                fonts                   = 'E39B7B' # Soft Orange
+                images                  = 'D3C6AA' # Tan
+                links                   = '7A8478' # Darker Forest
+                media                   = 'D9BB80' # Soft Yellow
+                movies                  = '7FBBB3' # Soft Blue
+                music                   = 'DBBC7F' # Light Brown
+                onedrive                = 'D699B6' # Soft Purple
+                output                  = '83C092' # Soft Cyan
+                photos                  = 'A7C080' # Soft Green
+                pictures                = 'E39B7B' # Soft Orange
+                projects                = '7A8478' # Darker Forest
+                samples                 = 'D9BB80' # Soft Yellow
+                shortcuts               = 'DBBC7F' # Light Brown
+                songs                   = 'E67E80' # Soft Red
+                src                     = 'D3C6AA' # Tan
+                tests                   = 'A7C080' # Soft Green
+                users                   = '83C092' # Soft Cyan
+                videos                  = 'D699B6' # Soft Purple
+                windows                 = '7FBBB3' # Soft Blue
+            }
+        }
+        Files = @{
+            junction = 'D9BB80' # Soft Yellow
+            symlink  = '7FBBB3' # Soft Blue
+            WellKnown = @{
+                '.gitattributes'        = 'D699B6' # Soft Purple
+                '.gitconfig'            = '7A8478' # Darker Forest
+                '.gitignore'            = 'E67E80' # Soft Red
+                '.gitmodules'           = '83C092' # Soft Cyan
+                '.json'                 = 'A7C080' # Soft Green
+                '.lua'                  = 'E39B7B' # Soft Orange
+                '.md'                   = 'D9BB80' # Soft Yellow
+                '.py'                   = 'D3C6AA' # Tan
+                '.travis.yml'           = '7FBBB3' # Soft Blue
+                '.ts'                   = 'E67E80' # Soft Red
+                '.yml'                  = 'DBBC7F' # Light Brown
+                'Dockerfile'            = '83C092' # Soft Cyan
+                'LICENSE'               = 'D699B6' # Soft Purple
+                'README.md'             = 'A7C080' # Soft Green
+                'favicon.ico'           = 'E39B7B' # Soft Orange
+                'package.json'          = 'D9BB80' # Soft Yellow
+                'vue.config.js'         = '7A8478' # Darker Forest
+            }
+        }
+    }
+}
