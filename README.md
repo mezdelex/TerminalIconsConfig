@@ -18,3 +18,7 @@
 | Colors |  n/a   | [colorThemes](https://github.com/mezdelex/TerminalIconsConfig/blob/main/colorThemes/everforest.psd1) |
 | Glyphs |  n/a   |            [glyphs](https://github.com/mezdelex/TerminalIconsConfig/blob/main/glyphs.ps1)            |
 | Icons  |  n/a   |  [iconThemes](https://github.com/mezdelex/TerminalIconsConfig/blob/main/iconThemes/everforest.psd1)  |
+
+## Images
+
+![image](https://github.com/user-attachments/assets/5310aa08-9c78-4340-afae-dcf187bfbc36)
