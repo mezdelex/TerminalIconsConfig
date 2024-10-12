@@ -1,15 +1,15 @@
 # Terminal Icons
 
 - OS: Windows 11
-- Terminal: Windows Terminal
+- Terminal: Wezterm
 - Shell: PowerShell Core
 
 ## Setup
 
 - Install `terminal-icons` via `scoop install terminal-icons` @ PowerShell
 - Clone this repository `git clone https://github.com/mezdelex/TerminalIconsConfig $HOME/scoop/apps/terminal-icons/current/Data`
-- `Set-TerminalIconsTheme -IconTheme everforest`
-- `Set-TerminalIconsTheme -ColorTheme everforest`
+- Run `Set-TerminalIconsTheme -IconTheme everforest` @ PowerShell
+- Run `Set-TerminalIconsTheme -ColorTheme everforest` @ PowerShell
 
 ## Core
 
