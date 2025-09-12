@@ -6,8 +6,9 @@
 
 ## Setup
 
-- Install `terminal-icons` via `scoop install terminal-icons` @ PowerShell
-- Clone this repository `git clone https://github.com/mezdelex/TerminalIconsConfig $HOME/scoop/apps/terminal-icons/current/Data`
+- Install `terminal-icons` via `Install-Module -Name Terminal-Icons -Scope CurrentUser` @ PowerShell
+- Change Directory `cd $HOME/Documents/PowerShell/Modules/Terminal-Icons/*/Data`
+- Clone this repository `git clone https://github.com/mezdelex/TerminalIconsConfig .`
 - Run `Set-TerminalIconsTheme -IconTheme everforest` @ PowerShell
 - Run `Set-TerminalIconsTheme -ColorTheme everforest` @ PowerShell
 
